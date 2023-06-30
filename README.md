@@ -3,4 +3,4 @@ I have built a user-freindly portfolio website utilizing React.js, elegantly pre
 
 I have deployed it on 000webhostapp 
 
-Follow the link : https://nandiniagrawalportfolio.000webhostapp.com/
+Follow the link : https://nandiniagrawal6portfolio.000webhostapp.com/
